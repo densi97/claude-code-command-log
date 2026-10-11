@@ -1,0 +1,21 @@
+{
+  "name": "command-log",
+  "version": "1.0.0",
+  "description": "Logs every shell command the agent runs and, only when you ask, explains why it ran each one and what it does",
+  "author": {
+    "name": "densi97"
+  },
+  "homepage": "https://github.com/densi97/claude-code-command-log",
+  "repository": "https://github.com/densi97/claude-code-command-log",
+  "license": "MIT",
+  "keywords": [
+    "mod",
+    "shell",
+    "bash",
+    "commands",
+    "audit",
+    "explainability",
+    "transparency"
+  ],
+  "types": "./types/index.d.ts"
+}

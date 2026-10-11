@@ -1,0 +1,9 @@
+# Written by Claude Code each time it loads the mod
+.claude-plugin/types/
+tsconfig.json
+
+# Exports from /commands export
+command-log-*.md
+
+.DS_Store
+node_modules/
